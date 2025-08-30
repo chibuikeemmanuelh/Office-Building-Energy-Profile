@@ -8,7 +8,8 @@ This repository contains the code (**SQL and Python**) and RETScreen expert repo
 
 # The Building
 
-![alt text](<../ABE Building.png>)
+<img width="394" height="362" alt="ABE Building" src="https://github.com/user-attachments/assets/b3ac2749-5b5f-417e-b2d1-42b45800b495" />
+
 
 Figure 1: Pictorial view of the ABE building.
 
@@ -24,23 +25,27 @@ The dataset used in this project is not publicly available due to privacy and co
 
 Python and Microsoft Excel were utilized for the data collection and data cleaning. Excel was used to insert data collected daily and also to check and clean basic errors in data. Python was used for advance cleaning technique and feature engineering.
 
-![alt text](../screenshot_pre_retrofit_data.png)
+<img width="1342" height="372" alt="screenshot_pre_retrofit_data" src="https://github.com/user-attachments/assets/4a81bccb-5010-467a-880d-daaeb696aa40" />
 
-Figure 2: First 30 rows of pre-retrofit data of the ABE building.
 
-![alt text](../Screenshot_post_retrofit_data.png)
+Figure 2: First 30 rows of pre-retrofit data.
 
-Figure 3: First 30 rows of post-retrofit data of the ABE building.
+<img width="1342" height="377" alt="Screenshot_post_retrofit_data" src="https://github.com/user-attachments/assets/ec7b091f-8c72-466f-b4cf-684a42a3a0dd" />
+
+
+Figure 3: First 30 rows of post-retrofit data.
 
 # Exploratory and Hypotheses-Driven Data Analyses
 
 SQL and Python were used for exploratory data analysis and to answer the research questions of this study, which also include the comparison between pre-retrofitted and post-retrofitted data. For the hyptheses, SQL was utilized for quering the values, whereas Python was used majorly for plotting graphs; using Matplotlib and Seaborn libraries.
 
-![alt text](<Screenshot on sql.png>)
+<img width="877" height="416" alt="Screenshot on sql" src="https://github.com/user-attachments/assets/a307e614-00a1-4f90-9baf-e13b02a3e313" />
+
 
 Figure 4: Part of SQL code used to generate the values to be plotted.
 
-![alt text](image.png)
+<img width="3561" height="1760" alt="image" src="https://github.com/user-attachments/assets/31606e96-d0a1-415c-bd0c-1f83818fdc4c" />
+
 
 Figure 5: Hypotheses-driven graph showing the energy consumption per square metre across rooms in the building.
 
@@ -48,7 +53,8 @@ Figure 5: Hypotheses-driven graph showing the energy consumption per square metr
 
 RETScreen Expert was used to get a target for the reduction in energy consumption and estimated CO₂ emission reduction from the building. And a comparison of the emissions from the building between year 2024 and 2025 using the pre-retrofitted data.
 
-![alt text](<Screenshot rets.png>)
+<img width="913" height="502" alt="Screenshot rets" src="https://github.com/user-attachments/assets/d48fc58d-dc01-4098-9add-d4f30f2f1cba" />
+
 
 Figure 6: Plot from RETScreen showing the base case, benchmark, and target of the building's energy consumption.
 
